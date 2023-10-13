@@ -1,0 +1,5 @@
+joining can be done either vertically or horizontally
+
+rules:
+    1> the images must be in same size
+    2> the images must have same number of channels
